@@ -1,0 +1,8 @@
+Ola mundo, está é a segunda modificação;
+
+git init 
+git status
+git add [nome arquivo]
+git add .
+git commit 
+git log
